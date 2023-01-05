@@ -1,0 +1,176 @@
+#main-container
+{
+    background: rgb(232, 231, 231);
+    width: 100%;
+    height: 1000px;
+    background-image: url("https://th.bing.com/th/id/OIP.Jep-VK7ov-ydvwMB9xYt0AAAAA?w=208&h=142&c=7&r=0&o=5&dpr=1.5&pid=1.7");
+    background-size: cover;
+}
+body{
+    color: white;
+}
+h1
+{
+    text-align: center;
+    position: relative;
+    top: 270px;
+    font-size: 50px;
+    left: 220px;
+    color: black;
+}
+h2{
+    text-align: center;
+    position: relative;
+    top: 230px;
+  
+    left: 200px;
+    color: black;
+}
+#content-container
+{
+    width: 39%;
+    position: relative;
+    background-color: antiquewhite;
+
+top: 40px;
+    left: 8%;
+    height: 50%;
+    border-radius: 20px;
+}
+#pnr-chart-box
+{
+    display: inline-block;
+}
+#pnr-status 
+{
+    color: white;
+    background-color: rgb(54, 42, 67);
+    margin-right: 20px;
+  text-align: center;
+  padding: 10px;
+  height: 20px;
+  width: 200px;
+  border-radius: 10px;
+}
+#chart
+{
+    color: white;
+    background-color: rgb(54, 42, 67);
+    margin-left: 30px;
+    text-align: center;
+    padding: 10px;
+    height: 20px;
+    width: 200px;
+    position: relative;
+    left: 213px;
+    bottom: 40px;
+    border-radius: 10px;
+
+}
+#azadi-logo
+{
+    position: relative;
+    bottom: 35px;
+}
+#heading
+{
+    position: relative;
+  
+    left: 60px;
+    bottom: 100px;
+    font-size: 20px;
+
+}
+#g-20-logo
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 370px;
+   position: relative;
+   bottom: 130px;
+}
+#input-from
+{
+position: relative;
+bottom: 100px;
+height: 30px;
+width: 190px;
+left :10px;
+border: 2px solid white;
+border-radius: 10px;
+
+}
+#input-date
+{
+position: relative;
+bottom: 135px;
+height: 30px;
+width: 190px;
+left: 250px;
+border: 2px solid white;
+border-radius: 10px;
+}
+#to
+{
+position: relative;
+height: 30px;
+width: 190px;
+bottom: 100px;
+left: 10px;
+border: 2px solid white;
+border-radius: 10px;
+
+}
+#class-choose
+{
+    position: relative;
+    bottom: 135px;
+    height: 35px;
+    width: 190px;
+    left: 250px;
+    border: 2px solid white;
+border-radius: 10px;
+}
+#coach
+{
+    position: relative;
+height: 35px;
+width: 290px;
+bottom: 100px;
+left: 10px;
+border: 2px solid white;
+border-radius: 10px;
+}
+.option1 {
+position: relative;
+bottom: 90px;
+}
+.option2 {
+    position: relative;
+    bottom: 90px;
+   left: 37px;
+
+    }
+    .option3 {
+        position: relative;
+        bottom: 80px;
+        }
+        .option4 {
+            position: relative;
+            bottom: 80px;
+           left: 80px;
+            }
+
+            #search
+            {
+                color: white;
+                background-color: orangered;
+                position: relative;
+                bottom: 50px;
+                left: 30px;
+                height: 40px;
+                width: 100px;
+                border: none;
+                border-radius: 30px;
+
+            }
